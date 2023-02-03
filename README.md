@@ -64,7 +64,10 @@
 	<a href="https://github.com/sagebeme">.   <img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
 	<a href="https://www.linkedin.com/in/sagebeme/">. <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
 	<a href="https://www.instagram.com/sage_be_muchachos/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
-	<a href="https://www.twitter.com/Sage_beMe/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
+	<p align="left"> <a href="https://twitter.com/Sage_beMe" target="blank"><img src="https://img.shields.io/twitter/follow/Maina__Njeri?logo=twitter&style=for-the-badge" alt="SagebeMe" /></a> </p>
+	<p align="left"> <a href="https://github.com/sagebeme/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagebeme&theme=gruvbox" alt="sagebeme" /></a> </p>
+
+
 
 	
 	
