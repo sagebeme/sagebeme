@@ -62,8 +62,10 @@
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 <p align="center">
 	<a href="https://github.com/sagebeme"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 40px></a>
-	<a href="https://www.linkedin.com/in/sagebeme/"><img src="https://raw.githubusercontent.com/sagebeme/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
-	<a href="https://www.instagram.com/sage_be_muchachos/"><img src="https://raw.githubusercontent.com/sagebeme/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width = 40px></a>
+	<a href="https://www.linkedin.com/in/sagebeme/"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+	<a href="https://www.instagram.com/sage_be_muchachos/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
+
+	<a href="https://www.twitter.com/Sage_beMe/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
 	
 <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2>
 </p>
