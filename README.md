@@ -13,7 +13,7 @@
 
 </br>
 <h4> 
-	<img align="right" src="https://media.giphy.com/media/oAMORhDCizxzfrtSly/giphy.gif" width="500" height="281" /> 
+	<img align="right" src="https://media.giphy.com/media/K7StRcr7hagJpXROmb/giphy.gif" width="500" height="281" /> 
 <ul align="left">
 	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
 </ul>
