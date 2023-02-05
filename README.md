@@ -1,5 +1,6 @@
 <h1 align='center'>"Hi 👋, Sagebeme here"</h1>
-<p align="center">🚀 I have a passion for technology😋😋 I love learning new Stuff😎</p>
+<p align="center">🚀 I have a passionon business 😋😋 I love learning new Stuff😎</p>
+<p> Let me kidnap you come here 👉🏾 <a href='./_blank'><img src="https://sagebeme.gihub.io/CV">Code Practice</a></p>
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:eudicas5k@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
