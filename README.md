@@ -61,7 +61,7 @@
 |[Printf](https://github.com/sagebeme/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/sagebeme/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/sagebeme/monty) | Stacks, Queues - LIFO, FIFO |
-|[AirBnb](https://github.com/samsonkimani/AirBnB_clone)| The program is designed to mimic the abilities of a simple shell. |
+|[AirBnb](https://github.com/samsonkimani/AirBnB_clone)| The program is designed to mimic the abilities of a AirBnB console. |
 <br />
 
 
