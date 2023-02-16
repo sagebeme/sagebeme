@@ -61,6 +61,7 @@
 |[Printf](https://github.com/sagebeme/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/sagebeme/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/sagebeme/monty) | Stacks, Queues - LIFO, FIFO |
+|[Sorting_Algorithms](https://github.com/dennisnderitu254/sorting_algorithms) | We did a number of Algorithms that sort data |
 |[AirBnb](https://github.com/samsonkimani/AirBnB_clone)| The program is designed to mimic the abilities of a AirBnB console. |
 <br />
 
