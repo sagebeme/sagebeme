@@ -1,6 +1,8 @@
 <h1 align='center'>"Hi 👋, Sagebeme here"</h1>
-<p align="center">🚀 I have a passionon business 😋😋 I love learning new Stuff😎 <br> Please don't curse</p>
+<p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎 <br> Please don't curse</p>
 <p align="center"> Let me kidnap you come here 👉🏾 <a href='./_blank'src="https://sagebeme.gihub.io/CV">Code Practice</a></p>
+<p align="center">Lets listen to this podcast together😎  👉🏾 <a href='./_blank'src="https://anchor.fm/sage-be-me"> <br> We also talk about <b>Girls</b></p>
+
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="mailto:eudicas5k@gmail.com"><img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge"></a>
