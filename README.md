@@ -1,7 +1,7 @@
 <h1 align='center'>"Hi 👋, Sagebeme here"</h1>
 <p align="center">🚀 👁👁 Look here 😋😋You want to see something new ?😎 <br> Please don't curse</p>
-<p align="center"> Let me kidnap you come here 👉🏾 <a target='./_blank'src="https://sagebeme.gihub.io/CV">Code Practice</a></p>
-<p align="center">Lets listen to this podcast together😎 👇🏾👇🏾 <a target='./_blank'href="https://anchor.fm/sage-be-me"> <br> We also talk about <b>Girls</b></a></p>
+<p align="center"> Let me kidnap you come here 👉🏾 <a href="https://sagebeme.gihub.io/CV" target='./_blank'>Code Practice</a></p>
+<p align="center">Lets listen to this podcast together😎 👇🏾👇🏾 <a href="https://anchor.fm/sage-be-me"  target='./_blank'> <br> We also talk about <b>Girls</b></a></p>
 
 
 <h1 align="center"> Welcome to my page<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
