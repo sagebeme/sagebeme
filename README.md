@@ -33,9 +33,9 @@
 
 | Repository | Description |
 | --- | --- |
-| [ alX-low_level_programming](https://github.com/sagebeme/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [ alx-low_level_programming](https://github.com/sagebeme/Alx-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ alx-system_engineering-devops](https://github.com/sagebeme/Alx-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
-| [ alX-higher_level_programming](https://github.com/sagebeme/alx-higher_level_programming) | Python|
+| [ alx-higher_level_programming](https://github.com/sagebeme/alx-higher_level_programming) | Python|
 | [ 100-Days-of-Code-Bootcamp](https://github.com/sagebeme/100-Days-of-Code-Bootcamp) | HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps, Python|
 
 
