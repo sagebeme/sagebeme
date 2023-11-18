@@ -18,7 +18,8 @@
 <h4> 
 	<img align="right" src="https://uploads.disquscdn.com/images/435682a285d313b52d737369f96428896952f271b0ea3f14d7252998cb4c3a4b.gif" width="500" height="281" /> 
 <ul align="left">
-	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
+	<li> :seedling: I don't think I'll stop learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
+	<li> :seedling: I am berry berry interested in Cyber sec</li><br/><br/>
 </ul>
 </h4>
 
