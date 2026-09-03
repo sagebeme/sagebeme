@@ -5,7 +5,7 @@
 Based in Kenya. ALX Software Engineering graduate. Currently open to remote contract and full-time work.
 
 - 📫 **Email:** [eudicas5k@gmail.com](mailto:eudicas5k@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/sage-macharia-b942703ab](https://www.linkedin.com/in/sage-macharia-b942703ab/)
+- 💼 **LinkedIn:** [linkedin.com/in/sage-macharia](https://www.linkedin.com/in/sage-macharia/)
 - 🐦 **Twitter/X:** [@Sage_beMe](https://twitter.com/Sage_beMe)
 - 🌐 **Personal site:** [sagebeme.github.io/CV](https://sagebeme.github.io/CV)
 
@@ -47,4 +47,4 @@ Selected client and product work (details generalized):
 
 ## Let's work together
 
-I'm available for remote automation builds, full-stack web & mobile projects, and short-term contracts. Reach out via [email](mailto:eudicas5k@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sage-macharia-b942703ab/).
+I'm available for remote automation builds, full-stack web & mobile projects, and short-term contracts. Reach out via [email](mailto:eudicas5k@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sage-macharia/).
